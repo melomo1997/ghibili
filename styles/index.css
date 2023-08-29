@@ -1,0 +1,38 @@
+h1 {
+    color: aqua;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    background-color: pink;
+    
+}
+p{
+  color: rgb(180, 48, 70);  
+  color:rgb(245, 176, 199)
+}
+#second-paragraph, .start-ghibili {color:palegreen;}
+.ghibili-ending{
+    color:palegreen;
+    background-color: rgb(33, 248, 248 , 0.6);
+    
+
+}
+
+body{
+    background-image: url(../images/nn.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+    background-attachment:fixed; 
+    background-position-x:left;
+   height: 500vh;
+}
+
+img{
+    border-style: solid;
+    border-width: spx;
+    border-color: rgb(11, 222, 78);
+    border-top: spx solid plum;
+    border-radius: 10px 10px 15px 20px;
+    box-shadow: 10px 10px 20px plum;
+}
